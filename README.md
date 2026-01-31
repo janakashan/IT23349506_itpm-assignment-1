@@ -78,3 +78,10 @@ npm install
 npx playwright test
 npx playwright show-report
 
+## 👤 Author
+
+- **Name:** Janaka  
+- **Course:** Software Engineering / Software Testing  
+- **Institution:** [Your University / Institute Name]  
+- **Assignment:** Automated UI & Functional Testing using Playwright  
+- **Tool Used:** Playwright (JavaScript)
