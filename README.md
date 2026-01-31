@@ -77,7 +77,4 @@ All tests run across multiple browsers using Playwright projects.
 npm install
 npx playwright test
 npx playwright show-report
- 
- Name: IT23349506
-Course: Software Testing
-Tool: Playwright
+
